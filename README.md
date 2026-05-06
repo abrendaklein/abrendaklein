@@ -1,1 +1,1 @@
-![meu banner](https://github.com/user-attachments/assets/92838498-5934-449d-ad91-15eb649754f5)
+![meu banner](https://github.com/user-attachments/assets/6dc3dac6-84f4-437e-a6ea-abd8a930b1f6)
