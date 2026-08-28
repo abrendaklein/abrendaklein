@@ -7,7 +7,7 @@ I'm passionate about **secure development, network security, and problem-solving
 ### ✨ Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,php,cs,js,mysql,git,linux,windows" />
+  <img src="https://skillicons.dev/icons?i=python,php,cs,js,html,mysql,git,linux,windows" />
 </p>
 
 ### 🔗 Projects
