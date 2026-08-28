@@ -18,6 +18,10 @@ Password strength & security checker built with HTML, CSS and JavaScript.
 **[API de Usuários](https://github.com/abrendaklein/api-usuarios-php)**  
 REST API built with PHP, OOP and MySQL.
 
+### 🔐 Interests
+
+Interested in **Cybersecurity, Secure Development, Network Security, Digital Forensics, and Backend Development**.
+
 ---
 
 💼 **Wanna know more about me?** [Let's connect on LinkedIn →](https://www.linkedin.com/in/brendamklein/)
