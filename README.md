@@ -10,8 +10,6 @@ I'm passionate about **secure development, network security, and problem-solving
   <img src="https://skillicons.dev/icons?i=python,php,cs,js,html,mysql,git,linux,windows" />
 </p>
 
-REST API built with PHP, OOP and MySQL.
-
 ### 🔐 Interests
 
 Interested in **Cybersecurity, Secure Development, Network Security, Digital Forensics, and Backend Development**.
