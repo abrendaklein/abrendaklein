@@ -10,12 +10,6 @@ I'm passionate about **secure development, network security, and problem-solving
   <img src="https://skillicons.dev/icons?i=python,php,cs,js,html,mysql,git,linux,windows" />
 </p>
 
-### 🔗 Projects
-
-**[Verificador de Senha](https://github.com/abrendaklein/verificador-senha)**  
-Password strength & security checker built with HTML, CSS and JavaScript.
-
-**[API de Usuários](https://github.com/abrendaklein/api-usuarios-php)**  
 REST API built with PHP, OOP and MySQL.
 
 ### 🔐 Interests
